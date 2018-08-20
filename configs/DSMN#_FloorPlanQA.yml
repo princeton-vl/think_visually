@@ -1,0 +1,17 @@
+pretrained: 1
+dataset: 'FloorPlanQA'
+model: 'DSMN'
+batch_size: 128
+run: 1
+num_epochs: 1600
+embedding_size: 32
+learning_rate: 0.001
+num_hops: 3
+early_stopping_epoch: 80
+save_path: './results'
+l2_reg: 0.0001
+dropout_reg: 0.9
+abl_number: 1
+data_path: './data_FloorPlanQA'
+reg: 0.1
+per_inter_sup: 1
