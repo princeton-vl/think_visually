@@ -1,7 +1,7 @@
 # Training and Evaluation Code 
 
 [**Think Visually: Question Answering through Virtual Imagery**](http://bit.ly/think_visually_paper)  
-Ankit Goyal, Jian Wang, Jia Deng  
+[Ankit Goyal](http://imankgoyal.github.io), [Jian Wang](http://jianwang.me/), [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)  
 *Annual Meeting of the Association for Computational Linguistics (ACL), 2018*
 
 ## Getting Started
